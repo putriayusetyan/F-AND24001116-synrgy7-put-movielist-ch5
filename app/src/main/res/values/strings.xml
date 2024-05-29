@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Listing</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="welcome">Welcome, %1$s</string>
+</resources>
